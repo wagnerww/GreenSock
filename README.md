@@ -49,3 +49,21 @@
 ### `Callback`
 
 - Pré determina a execução das funções nos momentos:OnStart, onUpdate, onComplete, onRepeat
+
+## Time-Line:
+
+### `Encadeamento`
+
+- Utilizar o método TimelineMax(), e chamar uma função/método de forma "corrida"um atrás do outro.
+
+### `Position-parameter`
+
+- É uma forma de aplicar delay na time-line(positive-relative(+=1)) ou overlap(negative-relative/passar pos cima ou acontecer(-=1)) junto)
+
+### `Control`
+
+- É uma maneira de controlar o inicio da animação, pausar, etc. Como se fosse um player
+
+### `Scale`
+
+- Controle da velocidade da animação parametrizada
