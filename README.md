@@ -1,4 +1,4 @@
-# GreenSock
+# GreenSock na Prática
 
 ## Basics:
 
